@@ -1,0 +1,35 @@
+# Table of contents
+
+* [Avenix Studios](README.md)
+
+## Getting Started
+
+* [Getting started](getting-started/getting-started.md)
+* [Quickstart](getting-started/quickstart.md)
+* [Your first project](getting-started/your-first-project.md)
+
+## Core concepts
+
+* [Core concepts](core-concepts/core-concepts.md)
+* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
+* [Permissions](core-concepts/permissions.md)
+
+## Guides
+
+* [Guides](guides/guides.md)
+* [Custom domains](guides/custom-domains.md)
+* [Automations](guides/automations.md)
+
+## Reference
+
+* [Reference](reference/reference.md)
+* [Configuration](reference/configuration.md)
+* [Glossary](reference/glossary.md)
+
+***
+
+* [Getting Started](installing-avenix.md)
+* [Our Resources](avenix-resources.md)
+* [Avenix Core](core-integration.md)
+* [Changelog](updates.md)
+* [Support](get-support.md)
