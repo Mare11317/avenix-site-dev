@@ -13,7 +13,7 @@ layout:
     visible: false
   pagination:
     visible: false
-    metadata:
+  metadata:
     visible: false
 ---
 
