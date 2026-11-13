@@ -16,3 +16,17 @@ site:
           default: true
           content:
             directory: ./home
+    - type: section
+      key: section-2
+      title: Avebux Docs
+      path: avebux-docs
+      icon: file-word
+      children:
+        - type: space
+          key: space-2
+          title: Product Docs
+          path: product-docs
+          default: true
+          draft: true
+          content:
+            directory: ./avebux-docs/product-docs
