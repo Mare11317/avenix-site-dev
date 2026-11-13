@@ -28,6 +28,5 @@ site:
           title: Avenix Docs
           path: product-docs
           default: true
-          draft: true
           content:
             directory: ./avebux-docs/product-docs
