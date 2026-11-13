@@ -69,19 +69,6 @@ site:
           content:
             directory: ./help-center
     - type: section
-      key: section-6
-      title: Imported content
-      path: imported-content
-      children:
-        - type: space
-          key: space-6
-          title: Imported content
-          path: imported-content
-          default: true
-          draft: true
-          content:
-            directory: ./imported-content
-    - type: section
       key: section-7
       title: Imported content
       path: imported-content-1
